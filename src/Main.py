@@ -2,7 +2,7 @@
 import objetosy_y_funciones as of
 import numpy as np
 
-# Colocamos los barcos llamando a la funcion
+# Colocamos los barcos llamando a la funcion.
 of.colocar_barcos(of.tablero_jugador, of.barcos_jugador)
 of.colocar_barcos(of.tablero_maquina, of.barcos_maquina)
 
