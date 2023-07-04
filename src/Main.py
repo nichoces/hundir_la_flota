@@ -10,7 +10,7 @@ of.colocar_barcos(of.tablero_maquina, of.barcos_maquina)
 Lista_jugador=[]
 
 
-# Comienza el bucle de juego
+# Comienza el bucle de juego.
 while True:
     print("----- TURNO DEL JUGADOR -----")
     of.misbarcos()
