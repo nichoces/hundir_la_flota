@@ -6,7 +6,7 @@ import numpy as np
 of.colocar_barcos(of.tablero_jugador, of.barcos_jugador)
 of.colocar_barcos(of.tablero_maquina, of.barcos_maquina)
 
-# Contabilizamos las coordenadas en las que se ha tirado
+# Contabilizamos las coordenadas en las que se ha tirado.
 Lista_jugador=[]
 
 
